@@ -9,7 +9,7 @@
         android:id="@+id/container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#735D78">
+        android:background="@null">
 
         <ImageView
             android:id="@+id/imageView"
